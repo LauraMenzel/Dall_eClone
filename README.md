@@ -1,4 +1,4 @@
-###*DALL-E CLONE*
+#*DALL-E CLONE*
 
 This project aims to replicate the fascinating image generation capabilities of DALL-E using the ChatGPT API. It utilizes a tech stack comprising HTML, CSS, JavaScript, React, Node, and Express.
 
